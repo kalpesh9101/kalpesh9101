@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **kvshewale2001@gmail.com**
 
-- 📄 Know about me [https://drive.google.com/file/d/14iTJOtUG7u6W_E5R3K6kebjpn9VDlSMR/view?usp=drive_link](https://drive.google.com/file/d/14iTJOtUG7u6W_E5R3K6kebjpn9VDlSMR/view?usp=drive_link)
+- 📄 Download My <a href="https://drive.google.com/file/d/14iTJOtUG7u6W_E5R3K6kebjpn9VDlSMR/view?usp=drive_link" target="blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
