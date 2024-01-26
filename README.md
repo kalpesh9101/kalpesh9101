@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalpesh9101&label=Profile%20views&color=0e75b6&style=flat" alt="kalpesh9101" /> </p>
 <h1 align="center">Hi 👋, I'm Kalpesh Shewale</h1>
 <h3 align="center">A passionate software developer from Pune</h3>
 <img align="right" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
